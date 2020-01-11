@@ -1,7 +1,6 @@
 package com.playtika.gitPractice;
 
 import java.util.LinkedList;
-import java.util.Objects;
 import java.util.Queue;
 
 public class ObjectMethods{
@@ -56,6 +55,6 @@ class Person1 implements Cloneable {
         return super.clone();
     }
 }
-}
+
 
 
