@@ -4,9 +4,9 @@ public class Random {
     public static void main(String[] args) {
         int x = 10;
         if(x==0){
-            System.out.println("x is zero");
+            System.out.println("the x is zero");
         }else{
-            System.out.println("x is not zero");
+            System.out.println("the x is not zero");
         }
         for (int y=0;y<10;y++){
             System.out.println(y);
